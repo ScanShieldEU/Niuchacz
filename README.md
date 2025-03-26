@@ -21,10 +21,10 @@
 2️⃣ The tool fetches the page and analyzes its content<br>
 3️⃣ Detected technologies and server information are displayed in a structured report<br>
 
-🚀 Why Use TechScanner?<br>
+🚀 Why Use Niuchacz tool?<br>
 
 🔹 Quick and accurate detection<br>
 🔹 Helps developers, security analysts, and SEO specialists<br>
 🔹 Open-source and easy to extend<br>
 
-Made in ScanShield.eu 🚀
+Made by ScanShield.eu 🚀
