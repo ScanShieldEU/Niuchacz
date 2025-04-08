@@ -1,9 +1,9 @@
 🔍 Niuchacz - Web Technology & Server Detector
 <br><br>
 
-<img src="https://scanshield.eu/images/blog/niuchacz_git.webp" alt="Web Technology Analysis Tool" />
+![obraz](https://github.com/user-attachments/assets/5c316f5c-b344-4e95-be23-0ac3d0918436)
 
-<br><br>
+<br>
 <b>Niuchacz.exe is a powerful and easy-to-use tool for detecting web technologies, frameworks, and server versions used on a website. 🚀</b><br><br>
 
 🛠 Features
